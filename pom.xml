@@ -9,8 +9,8 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <maven.compiler.source>9</maven.compiler.source>
-        <maven.compiler.target>9</maven.compiler.target>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
 
     <dependencies>
@@ -33,13 +33,4 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-
-    <build>
-    	<plugins>
-    		<plugin>
-                <artifactId>maven-resources-plugin</artifactId>
-                <version>2.6</version>
-    		</plugin>
-    	</plugins>
-    </build>
 </project>
