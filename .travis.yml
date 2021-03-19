@@ -1,7 +1,7 @@
 dist: bionic
 language: java
 jdk:
-  - oraclejdk
+  - oraclejdk11
 install: true
 script: 
   - mvn install
