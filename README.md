@@ -1,8 +1,6 @@
-# 309551091
+# Software Testing - Lab3
 
 [![Build Status](https://travis-ci.com/winniehsuanyuan/309551091.svg?branch=main)](https://travis-ci.com/winniehsuanyuan/309551091)
-
-2021 Software Testing Lab3
 
 * PASS
 
